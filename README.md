@@ -1,24 +1,29 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Sample Rails app to make HTTP requests using REST client with a script file.
 
-Things you may want to cover:
+## To run this script use: 
 
-* Ruby version
+```
+$ ruby app/script/rest_requestor.rb
+```
 
-* System dependencies
+## Ruby version:
 
-* Configuration
+```
+$ ruby-2.5.1
+```
 
-* Database creation
+## Rails version:
 
-* Database initialization
+```
+$ rails-5.2.3
+```
 
-* How to run the test suite
+[REST-Client repo](https://github.com/rest-client/rest-client)
 
-* Services (job queues, cache servers, search engines, etc.)
+Made by:
 
-* Deployment instructions
++ [Rodolfo Cisneros](https://github.com/rociac)
 
-* ...
++ [Adebola Adeniran](https://github.com/onedebos)
